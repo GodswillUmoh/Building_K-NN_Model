@@ -81,3 +81,5 @@ print(cm)
 accuracy_score(y_test, y_pred)
 ```
 
+[Click to view code in Terminal](https://colab.research.google.com/drive/1tX2e2XGOveqquEnG3G2ZDqna28Kmd0HI#scrollTo=H6Y9nBXFPt10)
+
