@@ -86,3 +86,7 @@ accuracy_score(y_test, y_pred)
 ### Notes:
 _In Logistics regression, the regression curve was a straight line dividing the category, but in K-NN, it is a curve. Not so smoth a curve_
 
+## Revision Quesuions
+_Attempt the Questions_
++ [Click to view Questions](https://ibb.co/6860s77)
+
