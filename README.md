@@ -84,5 +84,5 @@ accuracy_score(y_test, y_pred)
 [Click to view code in Terminal](https://colab.research.google.com/drive/1tX2e2XGOveqquEnG3G2ZDqna28Kmd0HI#scrollTo=H6Y9nBXFPt10)
 
 ### Notes:
-_In Logistics regression, the regression curve was a straight line dividing the category, but in K-NN, it is a curve._
+_In Logistics regression, the regression curve was a straight line dividing the category, but in K-NN, it is a curve. Not so smoth a curve_
 
