@@ -27,5 +27,5 @@ _The dataset is used to predict a categorical variable of Yes and No where the c
 Your company where you work as a data scientist just released a new brand of furniture, and your role is to predict which of your customers can purchased the product. The result will help the advertising team target thr right customers that will buy the new product.
 
 ## Model used
-This model uses the Logistics Regression algorithm to carryout the prediction.
+This model uses the K-Nearesr Neighbors to carryout the prediction.
 
