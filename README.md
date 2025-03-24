@@ -1,7 +1,7 @@
 # Building_K-NN_Model
 
 ## Dataset
-_The First 15 rows of about 400 rows of data is displayed in the table_
+_The First 15 rows of about 400 rows of data is displayed in the table_,
 
 |Age|	Estimated Salary|	Purchased|
 |----|-----------------|---------|
